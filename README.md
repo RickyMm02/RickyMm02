@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rickybaxla2002@gmail.com**
 
-- 👌 Fun Fact **Roger**
+- 👌 Fun Fact **I have Skill**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
