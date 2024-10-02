@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricky Baxla</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-<img src="https://imgs.search.brave.com/rlWAgypJIA2BUk1mrq1YVjdg4HE3-pHaZPmUh0HAi9Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWh1bWFuLWhlYWQt/MXdyaXV4c3VlNHRp/Z2Viei5naWY.gif" align="right" alt="coding" width="400" >
+<img src="https://imgs.search.brave.com/PFMhB3OyGi2kPyELsCEPX0giLVR2nJix6KVcpa8K2jU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvc3lzdGVt/LWNvZGluZy1yZXN0/YXJ0aW5nLTk2OGh4/OTk0OHhyMTRuOHUu/Z2lm.gif" align="right" alt="coding" width="400" >
 
 - 🔭 I’m currently working on **Mern Stack**
 
