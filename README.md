@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ricky Baxla</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <img src="https://imgs.search.brave.com/JOdRDA2MfpN3UN0lYBLC-yaVsgltfBirSMddr2p9XYE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXN0/LmdpdGh1Yi5jb20v/bGlhbnBlcnNvbi81/ZjBmNTI2MDRiMDNh/ZDgwYzgyZGI3OTBj/NDc0OTkzYy9yYXcv/ODhmMjBjOWQ3NDlk/NzU2YmU2M2YyMmIw/OWYzYzRhYzU3MGJj/NTEwMS9wcm9ncmFt/bWluZy5naWY.gif" align="right" alt="coding" width="400" >
 
-- 🔭 I’m currently working on **Mern Stack**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **rickybaxla2002@gmail.com**
 
-- 👌 Fun Fact **I have Skills**
+- 👌 Fun Fact **Learn new things to level up in this world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
