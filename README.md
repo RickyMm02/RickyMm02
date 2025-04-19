@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ricky Baxla</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <img src="https://imgs.search.brave.com/JOdRDA2MfpN3UN0lYBLC-yaVsgltfBirSMddr2p9XYE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXN0/LmdpdGh1Yi5jb20v/bGlhbnBlcnNvbi81/ZjBmNTI2MDRiMDNh/ZDgwYzgyZGI3OTBj/NDc0OTkzYy9yYXcv/ODhmMjBjOWQ3NDlk/NzU2YmU2M2YyMmIw/OWYzYzRhYzU3MGJj/NTEwMS9wcm9ncmFt/bWluZy5naWY.gif" align="right" alt="coding" width="400" >
 
-- 🔭 I’m currently working on **Backend Development**
-
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **MEAN stack**
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **rickybaxla2002@gmail.com**
+- 📫 How to reach me **rixky9807@gmail.com**
 
 - 👌 Fun Fact **Learn new things to level up in this world**
 
